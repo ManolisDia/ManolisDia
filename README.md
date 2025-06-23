@@ -21,7 +21,7 @@ I'm all about **Flutter** and **Dart** these days, but I've got my hands dirty w
 
 **CrewScheduler Pro** (2023-2024) - Built this for the event industry to solve real problems around scheduling, payments, and invoicing. Used by 100+ crew members.
 
-**CrimeSight Analytics** (2024) - Mobile app prototype for student safety. Crime education, local alerts, safe route planning, and SOS features.
+**CrimeSight Analytics** (2022) - Mobile app prototype for student safety. Crime education, local alerts, safe route planning, and SOS features.
 
 **AI Research at BiteRite** (2023-2024) - Dove deep into transformers and ML to figure out if their holiday planning AI idea was actually possible. Spoiler: it was.
 
