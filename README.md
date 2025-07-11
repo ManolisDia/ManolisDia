@@ -4,7 +4,7 @@ I'm Manolis, a software developer based in London who's been on quite the journe
 
 ## What I'm up to
 
-Right now I'm wearing multiple hats as Co-Founder/Lead Developer/CTO at Foundermatcha. Started from zero and we're now at 700+ users, which feels pretty wild. Built the whole thing from scratch with a team of 4 other devs, learning everything on the fly - from basic prototypes to production-ready software that actually makes money.
+Right now my role is technically Co-Founder/Lead Developer/CTO at Foundermatcha. Started from zero and we're now at 700+ users, which feels pretty wild. Built the whole thing from scratch and now I'm leading a team of 4 other devs, learning everything on the fly - from basic prototypes to production-ready software that actually makes money.
 
 ## My stack
 
@@ -12,8 +12,8 @@ I'm all about **Flutter** and **Dart** these days, but I've got my hands dirty w
 
 - **Mobile**: Flutter, React Native, Swift, Kotlin
 - **Backend**: Java, JavaScript, Python, Spring
-- **Cloud**: Firebase (the whole suite), Google Cloud Platform
-- **Tools**: Git, CI/CD, Stripe, PostgreSQL, MySQL
+- **Cloud**: Firebase (the whole suite), Google Cloud Platform, Vercel, Azure
+- **Tools**: Git, CI/CD, Stripe, PostgreSQL, MySQL, RevenueCat, Trello (I'm putting this because I'm so good at making cards and boards) 
 
 ## Some stuff I've worked on
 
@@ -21,9 +21,9 @@ I'm all about **Flutter** and **Dart** these days, but I've got my hands dirty w
 
 **CrewScheduler Pro** (2023-2024) - Built this for the event industry to solve real problems around scheduling, payments, and invoicing. Used by 100+ crew members.
 
-**CrimeSight Analytics** (2022) - Mobile app prototype for student safety. Crime education, local alerts, safe route planning, and SOS features.
+**CrimeSight Analytics** (2022) - Worked with some Psychology and Criminology Professors to design a mobile app prototype for student safety. Crime education, local alerts, safe route planning, and SOS features.
 
-**AI Research at BiteRite** (2023-2024) - Dove deep into transformers and ML to figure out if their holiday planning AI idea was actually possible. Spoiler: it was.
+**AI Research at BiteRite** (2023-2024) - Researching transformers and ML to figure out if their holiday planning AI idea was actually possible. It was.
 
 ## Background bits
 
