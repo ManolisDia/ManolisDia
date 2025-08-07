@@ -28,7 +28,7 @@ I'm all about **Flutter** and **Dart** these days, but I've got my hands dirty w
 ## Background bits
 
 - First-class Computer Science degree from London Met
-- Years in hospitality (yeah, really) - taught me work ethic and how to talk to humans
+- Years in hospitality - taught me work ethic and how to talk to humans
 - Muay Thai fighter since 2017 - taught me how to compete and push through the tough stuff
 
 ## Random facts
