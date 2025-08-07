@@ -11,10 +11,9 @@ Right now my role is technically Co-Founder/Lead Developer/CTO at Foundermatcha.
 I'm all about **Flutter** and **Dart** these days, but I've got my hands dirty with:
 
 - **Mobile**: Flutter, React Native, Swift, Kotlin
-- **Backend**: Java, JavaScript, Python, Spring
+- **Backend**: Java, JavaScript, Python, Spring, Django
 - **Cloud**: Firebase (the whole suite), Google Cloud Platform, Vercel, Azure
-- **Tools**: Git, CI/CD, Stripe, PostgreSQL, MySQL, RevenueCat, Trello (I'm putting this because I'm so good at making cards and boards) 
-
+- **Tools**: Git, CI/CD, Stripe, PostgreSQL, MySQL, RevenueCat, Trello, Riverpod
 ## Some stuff I've worked on
 
 **Foundermatcha** (2024-present) - The big one. Took it from idea to 700 users and counting. Matching platform for founders and developers.
