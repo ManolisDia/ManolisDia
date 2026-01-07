@@ -1,6 +1,10 @@
 # Manos Diamandakis
 
-Software developer in London. Ex-hospitality, now building things with code. Failure is Good.
+Software developer in London. Ex-hospitality, now building things with code. 
+
+Mainly mobile but I dabble in whatever seems fun and whatever I need to for Foundermatcha.
+
+Failure is Good.
 
 ---
 
