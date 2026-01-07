@@ -41,7 +41,7 @@ Currently picking up Homelabbing as a hobby.
 ### The non-code stuff
 
 - First-class CS degree (London Met)
-- Muay Thai since 2017 — I love a (consentual) scrap. Scariest thing I'll ever do and I keep doing it.
+- Muay Thai since 2017 — I love a (consensual) scrap. Scariest thing I'll ever do and I keep doing it.
 - Elected college president, I used to thing that was so impressive (DofE Silver too!)
 
 ---
