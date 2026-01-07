@@ -6,7 +6,7 @@ Software developer in London. Ex-hospitality, now building things with code. Fai
 
 Currently **Co-Founder & Lead Dev at [Foundermatcha](https://www.foundermatcha.com/)** — a platform that matches founders with developers based on vision and values, not just tech stacks. We're at 1500+ users now, which still feels surreal considering I built the first version alone in my flat.
 
-Before this made sense as a career, I spent years in hospitality (grew up in my dad's restaurant, actually). Turns out managing chaotic dinner services is decent prep for managing chaotic codebases.
+Before this made sense as a career, I spent years in hospitality (grew up in a restaurant). Turns out managing chaotic people is decent prep for managing chaotic codebases.
 
 ---
 
