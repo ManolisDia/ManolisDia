@@ -4,9 +4,9 @@ Software developer in London. Ex-hospitality, now building things with code. Fai
 
 ---
 
-Currently **Co-Founder & Lead Dev at [Foundermatcha](https://www.foundermatcha.com/)** — a platform that matches founders with developers based on vision and values, not just tech stacks. We're at 1500+ users now, which still feels surreal considering I built the first version alone in my flat.
+Currently **Co-Founder & Lead Dev at [Foundermatcha](https://www.foundermatcha.com/)** — a platform that matches founders with developers based on vision and values, not just tech stacks, currently closing in on 2000 users.
 
-Before this made sense as a career, I spent years in hospitality (grew up in a restaurant). Turns out managing chaotic people is decent prep for managing chaotic codebases.
+Pre-Software I worked in bars & restaurants for nearly 9 years, trust me when I say that did far more for my career and character than any degree or corporate job.
 
 ---
 
@@ -16,7 +16,7 @@ Before this made sense as a career, I spent years in hospitality (grew up in a r
 
 ### What I work with
 
-Mostly **Flutter/Dart**. I've touched the usual suspects — React/ React Native, Swift, Kotlin, Python, Java — but Flutter's where I live now. Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode.
+Mostly **Flutter/Dart**. I've touched the usual suspects — React/React Native, Swift, Kotlin, Python, Java — but Flutter's where I live now. Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode. 
 
 ---
 
