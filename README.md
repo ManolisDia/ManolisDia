@@ -38,7 +38,7 @@ Currently picking up Homelabbing as a hobby.
 
 - First-class CS degree (London Met)
 - Muay Thai since 2017 — I love a (consentual) scrap. Scariest thing I'll ever do and I keep doing it.
-- Former college president, back when I thought that was impressive (DofE Silver too!)
+- Elected college president, I used to thing that was so impressive (DofE Silver too!)
 
 ---
 
