@@ -10,6 +10,10 @@ Before this made sense as a career, I spent years in hospitality (grew up in my 
 
 ---
 
+![Metrics](./github-metrics.svg)
+
+---
+
 ### What I work with
 
 Mostly **Flutter/Dart** and **Firebase**. I've touched the usual suspects — React/ React Native, Swift, Kotlin, Python, Java — but Flutter's where I live now. Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode.
