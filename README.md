@@ -16,7 +16,11 @@ Pre-Software I worked in bars & restaurants for nearly 9 years, trust me when I 
 
 ### What I work with
 
-Mostly **Flutter/Dart**. I've touched the usual suspects — React/React Native, Swift, Kotlin, Python, Java — but Flutter's where I live now. Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode. 
+Mostly **Flutter/Dart** but I've messed around with most things mobile, React Native, Swift, Kotlin, Python, Java, JavaScript, TypeScript, React — but Flutter's where I live now. 
+
+Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode. 
+
+Currently picking up Homelabbing as a hobby. 
 
 ---
 
@@ -26,15 +30,15 @@ Mostly **Flutter/Dart**. I've touched the usual suspects — React/React Native,
 
 **CrimeSight** — Crime data viz prototype I built with some university professors. Student safety stuff.
 
-**BiteRite research** — Spent months figuring out if an AI holiday planning idea was technically feasible. It was, but the business wasn't.
+**BiteRite research** — Spent some time figuring out how to implement an "AI holiday planning app for people with allergies". The tech was feasible but the business wasn't.
 
 ---
 
 ### The non-code stuff
 
 - First-class CS degree (London Met)
-- Muay Thai since 2017 — good for learning to take hits and keep going
-- Former college president, back when I thought that was impressive
+- Muay Thai since 2017 — I love a (consentual) scrap. Scariest thing I'll ever do and I keep doing it.
+- Former college president, back when I thought that was impressive (DofE Silver too!)
 
 ---
 
