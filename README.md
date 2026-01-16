@@ -47,3 +47,5 @@ Currently picking up Homelabbing as a hobby.
 ---
 
 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/manolis-diamandakis-0a1922a7/) · manolisdiamandakis@gmail.com
+
+![Profile views](https://komarev.com/ghpvc/?username=ManolisDia&color=blue)
