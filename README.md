@@ -1,8 +1,8 @@
 # Manos Diamandakis
 
-Software developer in London. Ex-hospitality, now building things with code. 
+Software developer in London. Ex-hospitality, now building things with code.
 
-Mainly mobile but I dabble in whatever seems fun and whatever I need to for Foundermatcha.
+Mobile, full stack, web, backend, and agent orchestration — Whatever I need to for Foundermatcha. 
 
 Failure is Good.
 
@@ -20,11 +20,19 @@ Pre-Software I worked in bars & restaurants for nearly 9 years, trust me when I 
 
 ### What I work with
 
-Mostly **Flutter/Dart** but I've messed around with most things mobile, React Native, Swift, Kotlin, Python, Java, JavaScript, TypeScript, React — but Flutter's where I live now. 
+- I build mobile apps with Flutter/Dart. 
 
-Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode. 
+- On the backend I work with Python, Flask, Flask-SocketIO, and Pydantic everything. 
 
-Currently picking up Homelabbing as a hobby. 
+- For AI and agent orchestration I use LangGraph, OpenAI Realtime API for voice, and OpenRouter for LLM calls. 
+
+- Infrastructure-wise I run Firebase/Firestore, Redis, Taskiq, and ZEGO Cloud. 
+
+- I've also touched React Native, Swift, Kotlin, Java, JavaScript, TypeScript, and React.
+
+Clean Architecture enthusiast. Riverpod convert. SOLID Principles are god. Occasional yeller at Xcode.
+
+Currently picking up Homelabbing as a hobby.
 
 ---
 
@@ -41,7 +49,9 @@ Currently picking up Homelabbing as a hobby.
 ### The non-code stuff
 
 - First-class CS degree (London Met)
+
 - Muay Thai since 2017 — I love a (consensual) scrap. Scariest thing I'll ever do and I keep doing it.
+
 - Elected college president, I used to thing that was so impressive (DofE Silver too!)
 
 ---
